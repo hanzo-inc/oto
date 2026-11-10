@@ -1,0 +1,14 @@
+{
+  "name": "Oto (\u97f3) Studio Workflow",
+  "description": "Hanzo Creative AI Foley & Sound Effects Model (`oto` / `/v1/audio/foley`)",
+  "steps": [
+    {
+      "id": "oto-step-1",
+      "kind": "audio.foley",
+      "model": "oto",
+      "input": {
+        "prompt": "Heavy leather boots walking across wet cobblestone in a narrow courtyard"
+      }
+    }
+  ]
+}
